@@ -1,0 +1,17 @@
+# intelliJ IDEA
+.idea/
+target/
+*.iml
+
+# Eclipse
+*.class
+*.jar
+*.war
+*.rar
+*.ear
+.settings/
+target/
+*.classpath
+*.project
+
+*.log
