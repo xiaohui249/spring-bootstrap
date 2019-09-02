@@ -1,4 +1,4 @@
-package com.sean;
+package com.sean.spring.jdbctemplate;
 
 /**
  * Hello world!
